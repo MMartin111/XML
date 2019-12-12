@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aruhaz xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="beadando_schema.xsd">
+ 	<vevok vid="V01" nev="Kovacs Janos" varos="Tesztvaros" utca="Tesztutca" hazszam="22"></vevok>
+    <rendelesek rid="R02" vevo="V01" vegosszeg="3230" datum="2018-09-15" termek_nev = "Szek"></rendelesek>
+    <rendelesek rid="R01" vevo="V01" vegosszeg="31000" datum="2018-11-10" termek_nev = "Asztal"></rendelesek>
+</aruhaz>
